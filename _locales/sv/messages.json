@@ -1,0 +1,26 @@
+﻿{
+   "desc": {
+      "message": "Continue to use Telegram. At any time, the extension can be disabled in one click."
+   },
+   "name": {
+      "message": "Freedom to Telegram™"
+   },
+   "shortname": {
+      "message": "Freedom to Telegram™"
+   },
+   "title": {
+      "message": "Freedom to Telegram™"
+   },
+   "popupMessage_error": {
+      "message": "A conflict is detected! Proxy settings are monitored by another extension or can not be installed."
+   },
+   "popupMessage_info": {
+      "message": "FREEDOM?"
+   },
+   "popupMessage_no": {
+      "message": "no"
+   },
+   "popupMessage_yes": {
+      "message": "YES"
+   }
+}

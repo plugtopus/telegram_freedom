@@ -1,0 +1,26 @@
+{
+   "desc": {
+      "message": "Продолжай пользоваться Telegram. В любой момент расширение можно отключить в один клик."
+   },
+   "name": {
+      "message": "Свободу Телеграм™!"
+   },
+   "shortname": {
+      "message": "Свободу Телеграм™!"
+   },
+   "title": {
+      "message": "Свободу Телеграм™!"
+   },
+   "popupMessage_error": {
+      "message": "Обнаружен конфликт Proxy! Настройки proxy контролируются другим расширением или не могут быть установлены."
+   },
+   "popupMessage_info": {
+      "message": "СВОБОДУ?"
+   },
+   "popupMessage_no": {
+      "message": "нет"
+   },
+   "popupMessage_yes": {
+      "message": "ДА"
+   }
+}
